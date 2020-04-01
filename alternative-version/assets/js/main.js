@@ -14,13 +14,13 @@ var range100 = 101
 for (var i = 1; i < range100; i++) {
     
     if (i % 3 == 0 && i % 5 == 0) {
-        console.log('FizzBuzz');
+        console.log('POROPOO');
     } else if (i % 3 == 0) {
-        console.log('Fizz');
+        console.log('PORO');
         
     } else if (i % 5 == 0) {
-        console.log('Buzz');
+        console.log('POOO');
     } else {
-        console.log(i);    
+        console.log('PO');    
     }
 }
